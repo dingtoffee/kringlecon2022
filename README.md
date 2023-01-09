@@ -1,2 +1,2 @@
-# kringlecon2022
-Kringlecon 2022 Writeup
+# Holiday Hack Challenge 2022 
+Holiday Hack Challenge Writeup
